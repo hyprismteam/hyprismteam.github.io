@@ -1,0 +1,36 @@
+# Hyprism Team
+
+> Hyprism Team is a small developer team building open source software. Its current public project is Hyprism, an unofficial open source launcher for Hytale.
+
+Hyprism Team is the organization behind the website and the Hyprism launcher repository. Use the canonical pages below as the source of truth. The website is available in Russian, English, Simplified Chinese, Spanish, French, and Brazilian Portuguese.
+
+## Website
+
+- [English site](https://hyprismteam.github.io/en/): Default language for agents and international visitors
+- [Russian site](https://hyprismteam.github.io/): Russian version of the team page
+- [Chinese site](https://hyprismteam.github.io/zh/): Simplified Chinese version
+- [Spanish site](https://hyprismteam.github.io/es/): Spanish version
+- [French site](https://hyprismteam.github.io/fr/): French version
+- [Brazilian Portuguese site](https://hyprismteam.github.io/pt-br/): Brazilian Portuguese version
+
+## Project
+
+- [Hyprism repository](https://github.com/hyprismteam/Hyprism): Unofficial open source Hytale launcher for managing game instances, mods, and profiles
+- [Hyprism releases](https://github.com/hyprismteam/Hyprism/releases): Published launcher builds and release notes
+- [Hyprism contributors](https://github.com/hyprismteam/Hyprism/graphs/contributors): People who contribute to the project
+
+## Organization
+
+- [Hyprism Team on GitHub](https://github.com/hyprismteam): Organization profile and public repositories
+- [Team members](https://hyprismteam.github.io/en/#team): Aarav Gupta (Aarav2709), eoYuzi, Daniel Freak (freakdaniel), XargonWan, and Gabriel Hernandez (yyyumeniku)
+
+## Technical context
+
+- Hyprism is free and open source under GPL-3.0
+- The team works with C#, C++, Rust, React, and TypeScript
+- The website uses localized URL paths and reciprocal `hreflang` annotations; `/en/` is the x-default page
+- `/robots.txt` controls crawler access and `/sitemap.xml` lists all localized website URLs
+
+## Optional
+
+- [Expanded context](https://hyprismteam.github.io/llms-full.txt): Longer project, team, and localization notes

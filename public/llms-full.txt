@@ -1,0 +1,27 @@
+# Hyprism Team
+
+> Hyprism Team is a small, independent developer team. The team publishes open source software and currently focuses on Hyprism, an unofficial Hytale launcher.
+
+## Hyprism
+
+Hyprism is a desktop launcher for Hytale. The public website presents its current interface and links to the source repository. The project is intended for managing Hytale game instances, installed mods, and user profiles. The repository is the authoritative source for implementation details, supported platforms, installation steps, release status, and licensing.
+
+- [Source repository](https://github.com/hyprismteam/Hyprism)
+- [Releases](https://github.com/hyprismteam/Hyprism/releases)
+- [Documentation](https://hyprismteam.github.io/Hyprism/docs/)
+- [Contributors](https://github.com/hyprismteam/Hyprism/graphs/contributors)
+
+## Team
+
+The organization currently lists Aarav Gupta (`Aarav2709`), eoYuzi (`eoYuzi`), Daniel Freak (`freakdaniel`), XargonWan (`XargonWan`), and Gabriel Hernandez (`yyyumeniku`). Their public GitHub profiles are linked from the team section of the website.
+
+## Website and languages
+
+The localized landing pages contain the same project and team information in Russian, English, Simplified Chinese, Spanish, French, and Brazilian Portuguese. Use the English page when no language preference is known.
+
+- [English](https://hyprismteam.github.io/en/)
+- [Русский](https://hyprismteam.github.io/)
+- [简体中文](https://hyprismteam.github.io/zh/)
+- [Español](https://hyprismteam.github.io/es/)
+- [Français](https://hyprismteam.github.io/fr/)
+- [Português do Brasil](https://hyprismteam.github.io/pt-br/)

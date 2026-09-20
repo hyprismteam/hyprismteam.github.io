@@ -1,0 +1,16 @@
+{
+  "name": "Hyprism Team",
+  "short_name": "Hyprism",
+  "description": "Hyprism Team — open source projects and developers",
+  "start_url": "/en/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [{
+    "src": "/assets/team-logo.svg",
+    "sizes": "any",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}
