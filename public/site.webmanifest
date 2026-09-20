@@ -2,7 +2,7 @@
   "name": "Hyprism Team",
   "short_name": "Hyprism",
   "description": "Hyprism Team — open source projects and developers",
-  "start_url": "/en/",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#111111",

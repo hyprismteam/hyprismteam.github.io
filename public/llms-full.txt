@@ -19,8 +19,8 @@ The organization currently lists Aarav Gupta (`Aarav2709`), eoYuzi (`eoYuzi`), D
 
 The localized landing pages contain the same project and team information in Russian, English, Simplified Chinese, Spanish, French, and Brazilian Portuguese. Use the English page when no language preference is known.
 
-- [English](https://hyprismteam.github.io/en/)
-- [Русский](https://hyprismteam.github.io/)
+- [English](https://hyprismteam.github.io/)
+- [Русский](https://hyprismteam.github.io/ru/)
 - [简体中文](https://hyprismteam.github.io/zh/)
 - [Español](https://hyprismteam.github.io/es/)
 - [Français](https://hyprismteam.github.io/fr/)

@@ -9,8 +9,9 @@ export default defineConfig({
     sourcemap: false,
     rollupOptions: {
       input: {
-        ru: "index.html",
-        en: "en/index.html",
+        en: "index.html",
+        ru: "ru/index.html",
+        legacyEn: "en/index.html",
         zh: "zh/index.html",
         es: "es/index.html",
         fr: "fr/index.html",

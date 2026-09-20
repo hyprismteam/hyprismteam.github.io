@@ -26,7 +26,7 @@ export type SiteCopy = {
 
 export const siteUrl = "https://hyprismteam.github.io";
 
-export const localeOrder: Locale[] = ["ru", "en", "zh", "es", "fr", "pt-br"];
+export const localeOrder: Locale[] = ["en", "ru", "zh", "es", "fr", "pt-br"];
 
 export const localeMeta: Record<
   Locale,
@@ -41,7 +41,7 @@ export const localeMeta: Record<
   }
 > = {
   ru: {
-    path: "/",
+    path: "/ru/",
     lang: "ru",
     hreflang: "ru",
     short: "RU",
@@ -50,7 +50,7 @@ export const localeMeta: Record<
     ogLocale: "ru_RU",
   },
   en: {
-    path: "/en/",
+    path: "/",
     lang: "en",
     hreflang: "en",
     short: "EN",
@@ -266,5 +266,5 @@ export const translations: Record<Locale, SiteCopy> = {
 
 export function getLocale(pathname = window.location.pathname): Locale {
   const segment = pathname.split("/").filter(Boolean)[0]?.toLowerCase();
-  return localeOrder.includes(segment as Locale) ? (segment as Locale) : "ru";
+  return localeOrder.includes(segment as Locale) ? (segment as Locale) : "en";
 }

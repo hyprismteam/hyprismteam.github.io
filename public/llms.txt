@@ -6,8 +6,8 @@ Hyprism Team is the organization behind the website and the Hyprism launcher rep
 
 ## Website
 
-- [English site](https://hyprismteam.github.io/en/): Default language for agents and international visitors
-- [Russian site](https://hyprismteam.github.io/): Russian version of the team page
+- [English site](https://hyprismteam.github.io/): Default language for agents and international visitors
+- [Russian site](https://hyprismteam.github.io/ru/): Russian version of the team page
 - [Chinese site](https://hyprismteam.github.io/zh/): Simplified Chinese version
 - [Spanish site](https://hyprismteam.github.io/es/): Spanish version
 - [French site](https://hyprismteam.github.io/fr/): French version
@@ -22,13 +22,13 @@ Hyprism Team is the organization behind the website and the Hyprism launcher rep
 ## Organization
 
 - [Hyprism Team on GitHub](https://github.com/hyprismteam): Organization profile and public repositories
-- [Team members](https://hyprismteam.github.io/en/#team): Aarav Gupta (Aarav2709), eoYuzi, Daniel Freak (freakdaniel), XargonWan, and Gabriel Hernandez (yyyumeniku)
+- [Team members](https://hyprismteam.github.io/#team): Aarav Gupta (Aarav2709), eoYuzi, Daniel Freak (freakdaniel), XargonWan, and Gabriel Hernandez (yyyumeniku)
 
 ## Technical context
 
 - Hyprism is free and open source under GPL-3.0
 - The team works with C#, C++, Rust, React, and TypeScript
-- The website uses localized URL paths and reciprocal `hreflang` annotations; `/en/` is the x-default page
+- The website uses localized URL paths and reciprocal `hreflang` annotations; `/` is the English x-default page and `/ru/` is the Russian page
 - `/robots.txt` controls crawler access and `/sitemap.xml` lists all localized website URLs
 
 ## Optional
