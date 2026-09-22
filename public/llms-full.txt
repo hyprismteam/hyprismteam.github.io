@@ -13,7 +13,7 @@ Hyprism is a desktop launcher for Hytale. The public website presents its curren
 
 ## Team
 
-The organization currently lists Aarav Gupta (`Aarav2709`), eoYuzi (`eoYuzi`), Daniel Freak (`freakdaniel`), XargonWan (`XargonWan`), and Gabriel Hernandez (`yyyumeniku`). Their public GitHub profiles are linked from the team section of the website.
+The organization currently lists Aarav Gupta (`Aarav2709`), FowlBytez (`FowlBytez`), breakingDev-bits (`breakingDev-bits`), Daniel Freak (`freakdaniel`), XargonWan (`XargonWan`), and Gabriel Hernandez (`yyyumeniku`). Their public GitHub profiles are linked from the team section of the website.
 
 ## Website and languages
 

@@ -7,7 +7,8 @@ import "./styles.css";
 const github = "https://github.com/hyprismteam";
 const members = [
   { name: "Aarav2709", display: "Aarav Gupta" },
-  { name: "eoYuzi", display: "eoYuzi" },
+  { name: "FowlBytez", display: "FowlBytez" },
+  { name: "breakingDev-bits", display: "breakingDev-bits" },
   { name: "freakdaniel", display: "Daniel Freak" },
   { name: "XargonWan", display: "XargonWan" },
   { name: "yyyumeniku", display: "Gabriel Hernandez" },

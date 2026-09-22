@@ -112,7 +112,7 @@ export const translations: Record<Locale, SiteCopy> = {
     ],
     heroCta: "Познакомиться с нами",
     teamTitle: "Команда",
-    teamSummary: "Пять человек за Hyprism Team",
+    teamSummary: "Шесть человек за Hyprism Team",
     projectTitle: "Наш проект",
     projectName: "Hyprism",
     projectDescription:
@@ -140,7 +140,7 @@ export const translations: Record<Locale, SiteCopy> = {
     ],
     heroCta: "Meet the team",
     teamTitle: "Team",
-    teamSummary: "Five people behind Hyprism Team",
+    teamSummary: "Six people behind Hyprism Team",
     projectTitle: "Our project",
     projectName: "Hyprism",
     projectDescription:
@@ -165,7 +165,7 @@ export const translations: Record<Locale, SiteCopy> = {
     heroBody: ["编写代码，尝试新事物", "一起打造开源项目"],
     heroCta: "认识团队",
     teamTitle: "团队",
-    teamSummary: "Hyprism Team 背后的五个人",
+    teamSummary: "Hyprism Team 背后的六个人",
     projectTitle: "我们的项目",
     projectName: "Hyprism",
     projectDescription:
@@ -193,7 +193,7 @@ export const translations: Record<Locale, SiteCopy> = {
     ],
     heroCta: "Conocer al equipo",
     teamTitle: "Equipo",
-    teamSummary: "Cinco personas detrás de Hyprism Team",
+    teamSummary: "Seis personas detrás de Hyprism Team",
     projectTitle: "Nuestro proyecto",
     projectName: "Hyprism",
     projectDescription:
@@ -221,7 +221,7 @@ export const translations: Record<Locale, SiteCopy> = {
     ],
     heroCta: "Rencontrer l’équipe",
     teamTitle: "Équipe",
-    teamSummary: "Cinq personnes derrière Hyprism Team",
+    teamSummary: "Six personnes derrière Hyprism Team",
     projectTitle: "Notre projet",
     projectName: "Hyprism",
     projectDescription:
@@ -249,7 +249,7 @@ export const translations: Record<Locale, SiteCopy> = {
     ],
     heroCta: "Conheça a equipe",
     teamTitle: "Equipe",
-    teamSummary: "Cinco pessoas por trás da Hyprism Team",
+    teamSummary: "Seis pessoas por trás da Hyprism Team",
     projectTitle: "Nosso projeto",
     projectName: "Hyprism",
     projectDescription:

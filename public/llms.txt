@@ -22,7 +22,7 @@ Hyprism Team is the organization behind the website and the Hyprism launcher rep
 ## Organization
 
 - [Hyprism Team on GitHub](https://github.com/hyprismteam): Organization profile and public repositories
-- [Team members](https://hyprismteam.github.io/#team): Aarav Gupta (Aarav2709), eoYuzi, Daniel Freak (freakdaniel), XargonWan, and Gabriel Hernandez (yyyumeniku)
+- [Team members](https://hyprismteam.github.io/#team): Aarav Gupta (Aarav2709), FowlBytez, breakingDev-bits, Daniel Freak (freakdaniel), XargonWan, and Gabriel Hernandez (yyyumeniku)
 
 ## Technical context
 
